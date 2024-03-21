@@ -1,0 +1,19 @@
+(status): Nexxim version: 2023.2.0 WIN64, build time: May 16 2023, 23:37:21
+
+(status): Analyzing D:/HFSS files/lab_paper_filter_circuit.aedtresults/Circuit1/temp/DV46_S66_V71.cir.
+(info): Processing circuit for new analysis.
+omp(status): Requested number of threads in UI setting is 3
+circuit_details(status): Total device types: 4
+device type                                       number of devices
+----------------------------------------------------------------------
+cple                                              1
+ideal_open_stub_electrical                        2
+port_impedance                                    2
+trle                                              1
+(status): License checkout took 0.711 seconds.
+models:s_element(warning): a1.s - S-parameter data  is not passive. Worst violation of 3.8147e-06 at 0 (Hz).
+(info): Starting analysis type LNA.
+analysis:dc(status): Total DC newton iterations = 4, DC conv = 1.
+(status): LNA cpu time = 0.126
+(info): Simulation succeeded. Total simulator time: 0:00:01
+(status): Start Time:  09/16/2023 18:23:07, End Time:  09/16/2023 18:23:08, Host SHUBHAMGEHLOT, 
